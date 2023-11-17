@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T01:29:25.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="k7VShLf28SHojX8scoYr" version="22.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-17T02:19:22.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PM-_XP53VX5lDN4OoBmC" version="22.1.2" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="ERD">
-    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="723" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6T8gWb5WI1Y-pntv0LDm" name="Page Diagram">
-    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="723" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,7 +63,7 @@
         <mxCell id="BSgwC0g7EUaEU0FRbHp1-63" value="RecommendView" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BSgwC0g7EUaEU0FRbHp1-65" value="UserDetailView" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BSgwC0g7EUaEU0FRbHp1-65" value="ProfileDetailView" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BSgwC0g7EUaEU0FRbHp1-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BSgwC0g7EUaEU0FRbHp1-52" target="BSgwC0g7EUaEU0FRbHp1-65" edge="1">
@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSgwC0g7EUaEU0FRbHp1-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="BSgwC0g7EUaEU0FRbHp1-63" edge="1" source="BSgwC0g7EUaEU0FRbHp1-52">
+        <mxCell id="BSgwC0g7EUaEU0FRbHp1-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BSgwC0g7EUaEU0FRbHp1-52" target="BSgwC0g7EUaEU0FRbHp1-63" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="820" as="sourcePoint" />
             <mxPoint x="520" y="770" as="targetPoint" />
